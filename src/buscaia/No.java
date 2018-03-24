@@ -80,11 +80,14 @@ public class No {
         
         
         
-        inserir(4);
+        ;
         inserir(15);
         inserir(5);
         inserir(2);
         inserir(50);
+        inserir(78);
+        inserir(52);
+        
         
         ordem(raiz);
         
