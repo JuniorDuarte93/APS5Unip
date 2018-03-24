@@ -78,7 +78,7 @@ public class No {
    
     public static void main(String[] args) {
         
-        buscaEmProfundidade(raiz, 50);
+        
         
         inserir(4);
         inserir(15);
@@ -88,11 +88,7 @@ public class No {
         
         ordem(raiz);
         
-        
-         buscaEmProfundidade(raiz, 5);
-        
-        
-        
+          
     
     }
     
